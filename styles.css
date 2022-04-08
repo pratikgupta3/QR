@@ -1,0 +1,30 @@
+.bgimage{
+    background-image: url(Group\ 3239\ \(1\).png);
+    background-repeat: no-repeat;
+   background-size: cover;
+   /* background-size: contain; */
+   height: 607px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+   
+}
+/* .border-radius{
+    border-radius: 10px;
+} */
+.qr{
+    /* height: 90px;
+    width: 90px; */
+    background-size: contain;
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .bgimage{
+        background-image: url(Group\ 3239\ \(1\).png);
+        background-repeat: no-repeat;
+       background-size: cover;
+       /* background-size: contain; */
+       height: 607px;
+      
+       
+    }
+    
+}
